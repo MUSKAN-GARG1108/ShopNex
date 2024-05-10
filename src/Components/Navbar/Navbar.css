@@ -37,6 +37,12 @@
     cursor: pointer;
 }
 .nav-menu li a{text-decoration: none;}
+.nav-menu li a:hover{
+    color: white;
+    background-color: #0d6efd;
+    border-radius: 4px;
+}
+}
 .nav-menu hr{
     border: none;
     width: 80%;
